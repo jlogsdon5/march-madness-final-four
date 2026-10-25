@@ -29,6 +29,11 @@ At defaults: Tournament entries = 680; Final Four appearances = 40; Final Four r
 ## Preview and publish
 Serve this folder with a static HTTP server. Do not open HTML directly: browser CSV fetch requires HTTP. For GitHub Pages, put these files at the repository root and publish the root of the main branch using Settings > Pages. Links are relative so a repository subpath works. Internet fonts are optional; system fallbacks are supplied. CSV and chart calculations have no external dependency.
 
-## Remaining project work
-Publish on GitHub Pages and check logged-out access. Build and publish Tableau yourself from this exact CSV. After verifying default filters and all four actual Tableau results, add the agreement table and Tableau URL to the report; do not invent a link or claim agreement before verification. Submit the required four-line text file only after both dashboards are live.
+## Published builds and agreement
+Website: https://jlogsdon5.github.io/march-madness-final-four/
+Tableau: https://public.tableau.com/views/MarchMadnessFinalFourAnalysisJakeLogsdon/MarchMadnessFinalFour
 
+The report's agreement table records the four values visually verified on the signed-out published Tableau dashboard on October 25, 2026, with Season set to All. All four match the website defaults. The user built the Tableau worksheets, dashboard and shared year filter. A 2023 filter check during the build showed 68 entries, 4 appearances, 6.25% and 5.77%, and the three correct breakthrough programs.
+
+## Submission
+The required four-line submission file is provided separately. Both builds must remain publicly accessible when submitted.
