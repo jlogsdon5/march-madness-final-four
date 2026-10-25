@@ -1,0 +1,681 @@
+Season,Team,Conference,Seed,Finish_Round,Seed_Group,Final_Four
+2015,Duke,ACC,1,1,Seeds 1-4,1
+2015,Kentucky,SEC,1,4,Seeds 1-4,1
+2015,Villanova,BE,1,32,Seeds 1-4,0
+2015,Wisconsin,B10,1,2,Seeds 1-4,1
+2015,Arizona,P12,2,8,Seeds 1-4,0
+2015,Gonzaga,WCC,2,8,Seeds 1-4,0
+2015,Kansas,B12,2,32,Seeds 1-4,0
+2015,Virginia,ACC,2,32,Seeds 1-4,0
+2015,Baylor,B12,3,64,Seeds 1-4,0
+2015,Iowa St.,B12,3,64,Seeds 1-4,0
+2015,Notre Dame,ACC,3,8,Seeds 1-4,0
+2015,Oklahoma,B12,3,16,Seeds 1-4,0
+2015,Georgetown,BE,4,32,Seeds 1-4,0
+2015,Louisville,ACC,4,8,Seeds 1-4,0
+2015,Maryland,B10,4,32,Seeds 1-4,0
+2015,North Carolina,ACC,4,16,Seeds 1-4,0
+2015,Arkansas,SEC,5,32,Seeds 5-16,0
+2015,Northern Iowa,MVC,5,32,Seeds 5-16,0
+2015,Utah,P12,5,16,Seeds 5-16,0
+2015,West Virginia,B12,5,16,Seeds 5-16,0
+2015,Butler,BE,6,32,Seeds 5-16,0
+2015,Providence,BE,6,64,Seeds 5-16,0
+2015,SMU,Amer,6,64,Seeds 5-16,0
+2015,Xavier,BE,6,16,Seeds 5-16,0
+2015,Iowa,B10,7,32,Seeds 5-16,0
+2015,Michigan St.,B10,7,4,Seeds 5-16,1
+2015,VCU,A10,7,64,Seeds 5-16,0
+2015,Wichita St.,MVC,7,16,Seeds 5-16,0
+2015,Cincinnati,Amer,8,32,Seeds 5-16,0
+2015,North Carolina St.,ACC,8,16,Seeds 5-16,0
+2015,Oregon,P12,8,32,Seeds 5-16,0
+2015,San Diego St.,MWC,8,32,Seeds 5-16,0
+2015,LSU,SEC,9,64,Seeds 5-16,0
+2015,Oklahoma St.,B12,9,64,Seeds 5-16,0
+2015,Purdue,B10,9,64,Seeds 5-16,0
+2015,St. John's,BE,9,64,Seeds 5-16,0
+2015,Davidson,A10,10,64,Seeds 5-16,0
+2015,Georgia,SEC,10,64,Seeds 5-16,0
+2015,Indiana,B10,10,64,Seeds 5-16,0
+2015,Ohio St.,B10,10,32,Seeds 5-16,0
+2015,BYU,WCC,11,68,Seeds 5-16,0
+2015,Boise St.,MWC,11,68,Seeds 5-16,0
+2015,Dayton,A10,11,32,Seeds 5-16,0
+2015,Mississippi,SEC,11,64,Seeds 5-16,0
+2015,Texas,B12,11,64,Seeds 5-16,0
+2015,UCLA,P12,11,16,Seeds 5-16,0
+2015,Buffalo,MAC,12,64,Seeds 5-16,0
+2015,Stephen F. Austin,Slnd,12,64,Seeds 5-16,0
+2015,Wofford,SC,12,64,Seeds 5-16,0
+2015,Wyoming,MWC,12,64,Seeds 5-16,0
+2015,Eastern Washington,BSky,13,64,Seeds 5-16,0
+2015,Harvard,Ivy,13,64,Seeds 5-16,0
+2015,UC Irvine,BW,13,64,Seeds 5-16,0
+2015,Valparaiso,Horz,13,64,Seeds 5-16,0
+2015,Albany,AE,14,64,Seeds 5-16,0
+2015,Georgia St.,SB,14,32,Seeds 5-16,0
+2015,Northeastern,CAA,14,64,Seeds 5-16,0
+2015,UAB,CUSA,14,32,Seeds 5-16,0
+2015,Belmont,OVC,15,64,Seeds 5-16,0
+2015,New Mexico St.,WAC,15,64,Seeds 5-16,0
+2015,North Dakota St.,Sum,15,64,Seeds 5-16,0
+2015,Texas Southern,SWAC,15,64,Seeds 5-16,0
+2015,Coastal Carolina,BSth,16,64,Seeds 5-16,0
+2015,Hampton,MEAC,16,64,Seeds 5-16,0
+2015,Lafayette,Pat,16,64,Seeds 5-16,0
+2015,Manhattan,MAAC,16,68,Seeds 5-16,0
+2015,North Florida,ASun,16,68,Seeds 5-16,0
+2015,Robert Morris,NEC,16,64,Seeds 5-16,0
+2016,Kansas,B12,1,8,Seeds 1-4,0
+2016,North Carolina,ACC,1,2,Seeds 1-4,1
+2016,Oregon,P12,1,8,Seeds 1-4,0
+2016,Virginia,ACC,1,8,Seeds 1-4,0
+2016,Michigan St.,B10,2,64,Seeds 1-4,0
+2016,Oklahoma,B12,2,4,Seeds 1-4,1
+2016,Villanova,BE,2,1,Seeds 1-4,1
+2016,Xavier,BE,2,32,Seeds 1-4,0
+2016,Miami FL,ACC,3,16,Seeds 1-4,0
+2016,Texas A&M,SEC,3,16,Seeds 1-4,0
+2016,Utah,P12,3,32,Seeds 1-4,0
+2016,West Virginia,B12,3,64,Seeds 1-4,0
+2016,California,P12,4,64,Seeds 1-4,0
+2016,Duke,ACC,4,16,Seeds 1-4,0
+2016,Iowa St.,B12,4,16,Seeds 1-4,0
+2016,Kentucky,SEC,4,32,Seeds 1-4,0
+2016,Baylor,B12,5,64,Seeds 5-16,0
+2016,Indiana,B10,5,16,Seeds 5-16,0
+2016,Maryland,B10,5,16,Seeds 5-16,0
+2016,Purdue,B10,5,64,Seeds 5-16,0
+2016,Arizona,P12,6,64,Seeds 5-16,0
+2016,Notre Dame,ACC,6,8,Seeds 5-16,0
+2016,Seton Hall,BE,6,64,Seeds 5-16,0
+2016,Texas,B12,6,64,Seeds 5-16,0
+2016,Dayton,A10,7,64,Seeds 5-16,0
+2016,Iowa,B10,7,32,Seeds 5-16,0
+2016,Oregon St.,P12,7,64,Seeds 5-16,0
+2016,Wisconsin,B10,7,16,Seeds 5-16,0
+2016,Colorado,P12,8,64,Seeds 5-16,0
+2016,Saint Joseph's,A10,8,32,Seeds 5-16,0
+2016,Texas Tech,B12,8,64,Seeds 5-16,0
+2016,USC,P12,8,64,Seeds 5-16,0
+2016,Butler,BE,9,32,Seeds 5-16,0
+2016,Cincinnati,Amer,9,64,Seeds 5-16,0
+2016,Connecticut,Amer,9,32,Seeds 5-16,0
+2016,Providence,BE,9,32,Seeds 5-16,0
+2016,Pittsburgh,ACC,10,64,Seeds 5-16,0
+2016,Syracuse,ACC,10,4,Seeds 5-16,1
+2016,Temple,Amer,10,64,Seeds 5-16,0
+2016,VCU,A10,10,32,Seeds 5-16,0
+2016,Gonzaga,WCC,11,16,Seeds 5-16,0
+2016,Michigan,B10,11,64,Seeds 5-16,0
+2016,Northern Iowa,MVC,11,32,Seeds 5-16,0
+2016,Tulsa,Amer,11,68,Seeds 5-16,0
+2016,Vanderbilt,SEC,11,68,Seeds 5-16,0
+2016,Wichita St.,MVC,11,32,Seeds 5-16,0
+2016,Chattanooga,SC,12,64,Seeds 5-16,0
+2016,Little Rock,SB,12,32,Seeds 5-16,0
+2016,South Dakota St.,Sum,12,64,Seeds 5-16,0
+2016,Yale,Ivy,12,32,Seeds 5-16,0
+2016,Hawaii,BW,13,32,Seeds 5-16,0
+2016,Iona,MAAC,13,64,Seeds 5-16,0
+2016,Stony Brook,AE,13,64,Seeds 5-16,0
+2016,UNC Wilmington,CAA,13,64,Seeds 5-16,0
+2016,Buffalo,MAC,14,64,Seeds 5-16,0
+2016,Fresno St.,MWC,14,64,Seeds 5-16,0
+2016,Green Bay,Horz,14,64,Seeds 5-16,0
+2016,Stephen F. Austin,Slnd,14,32,Seeds 5-16,0
+2016,Cal St. Bakersfield,WAC,15,64,Seeds 5-16,0
+2016,Middle Tennessee,CUSA,15,32,Seeds 5-16,0
+2016,UNC Asheville,BSth,15,64,Seeds 5-16,0
+2016,Weber St.,BSky,15,64,Seeds 5-16,0
+2016,Austin Peay,OVC,16,64,Seeds 5-16,0
+2016,Fairleigh Dickinson,NEC,16,68,Seeds 5-16,0
+2016,Florida Gulf Coast,ASun,16,64,Seeds 5-16,0
+2016,Hampton,MEAC,16,64,Seeds 5-16,0
+2016,Holy Cross,Pat,16,64,Seeds 5-16,0
+2016,Southern,SWAC,16,68,Seeds 5-16,0
+2017,Gonzaga,WCC,1,2,Seeds 1-4,1
+2017,Kansas,B12,1,8,Seeds 1-4,0
+2017,North Carolina,ACC,1,1,Seeds 1-4,1
+2017,Villanova,BE,1,32,Seeds 1-4,0
+2017,Arizona,P12,2,16,Seeds 1-4,0
+2017,Duke,ACC,2,32,Seeds 1-4,0
+2017,Kentucky,SEC,2,8,Seeds 1-4,0
+2017,Louisville,ACC,2,32,Seeds 1-4,0
+2017,Baylor,B12,3,16,Seeds 1-4,0
+2017,Florida St.,ACC,3,32,Seeds 1-4,0
+2017,Oregon,P12,3,4,Seeds 1-4,1
+2017,UCLA,P12,3,16,Seeds 1-4,0
+2017,Butler,BE,4,16,Seeds 1-4,0
+2017,Florida,SEC,4,8,Seeds 1-4,0
+2017,Purdue,B10,4,16,Seeds 1-4,0
+2017,West Virginia,B12,4,16,Seeds 1-4,0
+2017,Iowa St.,B12,5,32,Seeds 5-16,0
+2017,Minnesota,B10,5,64,Seeds 5-16,0
+2017,Notre Dame,ACC,5,32,Seeds 5-16,0
+2017,Virginia,ACC,5,32,Seeds 5-16,0
+2017,Cincinnati,Amer,6,32,Seeds 5-16,0
+2017,Creighton,BE,6,64,Seeds 5-16,0
+2017,Maryland,B10,6,64,Seeds 5-16,0
+2017,SMU,Amer,6,64,Seeds 5-16,0
+2017,Dayton,A10,7,64,Seeds 5-16,0
+2017,Michigan,B10,7,16,Seeds 5-16,0
+2017,Saint Mary's,WCC,7,32,Seeds 5-16,0
+2017,South Carolina,SEC,7,4,Seeds 5-16,1
+2017,Arkansas,SEC,8,32,Seeds 5-16,0
+2017,Miami FL,ACC,8,64,Seeds 5-16,0
+2017,Northwestern,B10,8,32,Seeds 5-16,0
+2017,Wisconsin,B10,8,16,Seeds 5-16,0
+2017,Michigan St.,B10,9,32,Seeds 5-16,0
+2017,Seton Hall,BE,9,64,Seeds 5-16,0
+2017,Vanderbilt,SEC,9,64,Seeds 5-16,0
+2017,Virginia Tech,ACC,9,64,Seeds 5-16,0
+2017,Marquette,BE,10,64,Seeds 5-16,0
+2017,Oklahoma St.,B12,10,64,Seeds 5-16,0
+2017,VCU,A10,10,64,Seeds 5-16,0
+2017,Wichita St.,MVC,10,32,Seeds 5-16,0
+2017,Kansas St.,B12,11,64,Seeds 5-16,0
+2017,Providence,BE,11,68,Seeds 5-16,0
+2017,Rhode Island,A10,11,32,Seeds 5-16,0
+2017,USC,P12,11,32,Seeds 5-16,0
+2017,Wake Forest,ACC,11,68,Seeds 5-16,0
+2017,Xavier,BE,11,8,Seeds 5-16,0
+2017,Middle Tennessee,CUSA,12,32,Seeds 5-16,0
+2017,Nevada,MWC,12,64,Seeds 5-16,0
+2017,Princeton,Ivy,12,64,Seeds 5-16,0
+2017,UNC Wilmington,CAA,12,64,Seeds 5-16,0
+2017,Bucknell,Pat,13,64,Seeds 5-16,0
+2017,East Tennessee St.,SC,13,64,Seeds 5-16,0
+2017,Vermont,AE,13,64,Seeds 5-16,0
+2017,Winthrop,BSth,13,64,Seeds 5-16,0
+2017,Florida Gulf Coast,ASun,14,64,Seeds 5-16,0
+2017,Iona,MAAC,14,64,Seeds 5-16,0
+2017,Kent St.,MAC,14,64,Seeds 5-16,0
+2017,New Mexico St.,WAC,14,64,Seeds 5-16,0
+2017,Jacksonville St.,OVC,15,64,Seeds 5-16,0
+2017,North Dakota,BSky,15,64,Seeds 5-16,0
+2017,Northern Kentucky,Horz,15,64,Seeds 5-16,0
+2017,Troy,SB,15,64,Seeds 5-16,0
+2017,Mount St. Mary's,NEC,16,64,Seeds 5-16,0
+2017,New Orleans,Slnd,16,68,Seeds 5-16,0
+2017,North Carolina Central,MEAC,16,68,Seeds 5-16,0
+2017,South Dakota St.,Sum,16,64,Seeds 5-16,0
+2017,Texas Southern,SWAC,16,64,Seeds 5-16,0
+2017,UC Davis,BW,16,64,Seeds 5-16,0
+2018,Kansas,B12,1,4,Seeds 1-4,1
+2018,Villanova,BE,1,1,Seeds 1-4,1
+2018,Virginia,ACC,1,64,Seeds 1-4,0
+2018,Xavier,BE,1,32,Seeds 1-4,0
+2018,Cincinnati,Amer,2,32,Seeds 1-4,0
+2018,Duke,ACC,2,8,Seeds 1-4,0
+2018,North Carolina,ACC,2,32,Seeds 1-4,0
+2018,Purdue,B10,2,16,Seeds 1-4,0
+2018,Michigan,B10,3,2,Seeds 1-4,1
+2018,Michigan St.,B10,3,32,Seeds 1-4,0
+2018,Tennessee,SEC,3,32,Seeds 1-4,0
+2018,Texas Tech,B12,3,8,Seeds 1-4,0
+2018,Arizona,P12,4,64,Seeds 1-4,0
+2018,Auburn,SEC,4,32,Seeds 1-4,0
+2018,Gonzaga,WCC,4,16,Seeds 1-4,0
+2018,Wichita St.,Amer,4,64,Seeds 1-4,0
+2018,Clemson,ACC,5,16,Seeds 5-16,0
+2018,Kentucky,SEC,5,16,Seeds 5-16,0
+2018,Ohio St.,B10,5,32,Seeds 5-16,0
+2018,West Virginia,B12,5,16,Seeds 5-16,0
+2018,Florida,SEC,6,32,Seeds 5-16,0
+2018,Houston,Amer,6,32,Seeds 5-16,0
+2018,Miami FL,ACC,6,64,Seeds 5-16,0
+2018,TCU,B12,6,64,Seeds 5-16,0
+2018,Arkansas,SEC,7,64,Seeds 5-16,0
+2018,Nevada,MWC,7,16,Seeds 5-16,0
+2018,Rhode Island,A10,7,32,Seeds 5-16,0
+2018,Texas A&M,SEC,7,16,Seeds 5-16,0
+2018,Creighton,BE,8,64,Seeds 5-16,0
+2018,Missouri,SEC,8,64,Seeds 5-16,0
+2018,Seton Hall,BE,8,32,Seeds 5-16,0
+2018,Virginia Tech,ACC,8,64,Seeds 5-16,0
+2018,Alabama,SEC,9,32,Seeds 5-16,0
+2018,Florida St.,ACC,9,8,Seeds 5-16,0
+2018,Kansas St.,B12,9,8,Seeds 5-16,0
+2018,North Carolina St.,ACC,9,64,Seeds 5-16,0
+2018,Butler,BE,10,32,Seeds 5-16,0
+2018,Oklahoma,B12,10,64,Seeds 5-16,0
+2018,Providence,BE,10,64,Seeds 5-16,0
+2018,Texas,B12,10,64,Seeds 5-16,0
+2018,Arizona St.,P12,11,68,Seeds 5-16,0
+2018,Loyola Chicago,MVC,11,4,Seeds 5-16,1
+2018,San Diego St.,MWC,11,64,Seeds 5-16,0
+2018,St. Bonaventure,A10,11,64,Seeds 5-16,0
+2018,Syracuse,ACC,11,16,Seeds 5-16,0
+2018,UCLA,P12,11,68,Seeds 5-16,0
+2018,Davidson,A10,12,64,Seeds 5-16,0
+2018,Murray St.,OVC,12,64,Seeds 5-16,0
+2018,New Mexico St.,WAC,12,64,Seeds 5-16,0
+2018,South Dakota St.,Sum,12,64,Seeds 5-16,0
+2018,Buffalo,MAC,13,32,Seeds 5-16,0
+2018,College of Charleston,CAA,13,64,Seeds 5-16,0
+2018,Marshall,CUSA,13,32,Seeds 5-16,0
+2018,UNC Greensboro,SC,13,64,Seeds 5-16,0
+2018,Bucknell,Pat,14,64,Seeds 5-16,0
+2018,Montana,BSky,14,64,Seeds 5-16,0
+2018,Stephen F. Austin,Slnd,14,64,Seeds 5-16,0
+2018,Wright St.,Horz,14,64,Seeds 5-16,0
+2018,Cal St. Fullerton,BW,15,64,Seeds 5-16,0
+2018,Georgia St.,SB,15,64,Seeds 5-16,0
+2018,Iona,MAAC,15,64,Seeds 5-16,0
+2018,Lipscomb,ASun,15,64,Seeds 5-16,0
+2018,LIU Brooklyn,NEC,16,68,Seeds 5-16,0
+2018,North Carolina Central,MEAC,16,68,Seeds 5-16,0
+2018,Penn,Ivy,16,64,Seeds 5-16,0
+2018,Radford,BSth,16,64,Seeds 5-16,0
+2018,Texas Southern,SWAC,16,64,Seeds 5-16,0
+2018,UMBC,AE,16,32,Seeds 5-16,0
+2019,Duke,ACC,1,8,Seeds 1-4,0
+2019,Gonzaga,WCC,1,8,Seeds 1-4,0
+2019,North Carolina,ACC,1,16,Seeds 1-4,0
+2019,Virginia,ACC,1,1,Seeds 1-4,1
+2019,Kentucky,SEC,2,8,Seeds 1-4,0
+2019,Michigan,B10,2,16,Seeds 1-4,0
+2019,Michigan St.,B10,2,4,Seeds 1-4,1
+2019,Tennessee,SEC,2,16,Seeds 1-4,0
+2019,Houston,Amer,3,16,Seeds 1-4,0
+2019,LSU,SEC,3,16,Seeds 1-4,0
+2019,Purdue,B10,3,8,Seeds 1-4,0
+2019,Texas Tech,B12,3,2,Seeds 1-4,1
+2019,Florida St.,ACC,4,16,Seeds 1-4,0
+2019,Kansas,B12,4,32,Seeds 1-4,0
+2019,Kansas St.,B12,4,64,Seeds 1-4,0
+2019,Virginia Tech,ACC,4,16,Seeds 1-4,0
+2019,Auburn,SEC,5,4,Seeds 5-16,1
+2019,Marquette,BE,5,64,Seeds 5-16,0
+2019,Mississippi St.,SEC,5,64,Seeds 5-16,0
+2019,Wisconsin,B10,5,64,Seeds 5-16,0
+2019,Buffalo,MAC,6,32,Seeds 5-16,0
+2019,Iowa St.,B12,6,64,Seeds 5-16,0
+2019,Maryland,B10,6,32,Seeds 5-16,0
+2019,Villanova,BE,6,32,Seeds 5-16,0
+2019,Cincinnati,Amer,7,64,Seeds 5-16,0
+2019,Louisville,ACC,7,64,Seeds 5-16,0
+2019,Nevada,MWC,7,64,Seeds 5-16,0
+2019,Wofford,SC,7,32,Seeds 5-16,0
+2019,Mississippi,SEC,8,64,Seeds 5-16,0
+2019,Syracuse,ACC,8,64,Seeds 5-16,0
+2019,Utah St.,MWC,8,64,Seeds 5-16,0
+2019,VCU,A10,8,64,Seeds 5-16,0
+2019,Baylor,B12,9,32,Seeds 5-16,0
+2019,Oklahoma,B12,9,32,Seeds 5-16,0
+2019,UCF,Amer,9,32,Seeds 5-16,0
+2019,Washington,P12,9,32,Seeds 5-16,0
+2019,Florida,SEC,10,32,Seeds 5-16,0
+2019,Iowa,B10,10,32,Seeds 5-16,0
+2019,Minnesota,B10,10,32,Seeds 5-16,0
+2019,Seton Hall,BE,10,64,Seeds 5-16,0
+2019,Arizona St.,P12,11,64,Seeds 5-16,0
+2019,Belmont,OVC,11,64,Seeds 5-16,0
+2019,Ohio St.,B10,11,32,Seeds 5-16,0
+2019,Saint Mary's,WCC,11,64,Seeds 5-16,0
+2019,St. John's,BE,11,68,Seeds 5-16,0
+2019,Temple,Amer,11,68,Seeds 5-16,0
+2019,Liberty,BSth,12,32,Seeds 5-16,0
+2019,Murray St.,OVC,12,32,Seeds 5-16,0
+2019,New Mexico St.,WAC,12,64,Seeds 5-16,0
+2019,Oregon,P12,12,16,Seeds 5-16,0
+2019,Northeastern,CAA,13,64,Seeds 5-16,0
+2019,Saint Louis,A10,13,64,Seeds 5-16,0
+2019,UC Irvine,BW,13,32,Seeds 5-16,0
+2019,Vermont,AE,13,64,Seeds 5-16,0
+2019,Georgia St.,SB,14,64,Seeds 5-16,0
+2019,Northern Kentucky,Horz,14,64,Seeds 5-16,0
+2019,Old Dominion,CUSA,14,64,Seeds 5-16,0
+2019,Yale,Ivy,14,64,Seeds 5-16,0
+2019,Abilene Christian,Slnd,15,64,Seeds 5-16,0
+2019,Bradley,MVC,15,64,Seeds 5-16,0
+2019,Colgate,Pat,15,64,Seeds 5-16,0
+2019,Montana,BSky,15,64,Seeds 5-16,0
+2019,Fairleigh Dickinson,NEC,16,64,Seeds 5-16,0
+2019,Gardner Webb,BSth,16,64,Seeds 5-16,0
+2019,Iona,MAAC,16,64,Seeds 5-16,0
+2019,North Carolina Central,MEAC,16,68,Seeds 5-16,0
+2019,North Dakota St.,Sum,16,64,Seeds 5-16,0
+2019,Prairie View A&M,SWAC,16,68,Seeds 5-16,0
+2021,Baylor,B12,1,1,Seeds 1-4,1
+2021,Gonzaga,WCC,1,2,Seeds 1-4,1
+2021,Illinois,B10,1,32,Seeds 1-4,0
+2021,Michigan,B10,1,8,Seeds 1-4,0
+2021,Alabama,SEC,2,16,Seeds 1-4,0
+2021,Houston,Amer,2,4,Seeds 1-4,1
+2021,Iowa,B10,2,32,Seeds 1-4,0
+2021,Ohio St.,B10,2,64,Seeds 1-4,0
+2021,Arkansas,SEC,3,8,Seeds 1-4,0
+2021,Kansas,B12,3,32,Seeds 1-4,0
+2021,Texas,B12,3,64,Seeds 1-4,0
+2021,West Virginia,B12,3,32,Seeds 1-4,0
+2021,Florida St.,ACC,4,16,Seeds 1-4,0
+2021,Oklahoma St.,B12,4,32,Seeds 1-4,0
+2021,Purdue,B10,4,64,Seeds 1-4,0
+2021,Virginia,ACC,4,64,Seeds 1-4,0
+2021,Colorado,P12,5,32,Seeds 5-16,0
+2021,Creighton,BE,5,16,Seeds 5-16,0
+2021,Tennessee,SEC,5,64,Seeds 5-16,0
+2021,Villanova,BE,5,16,Seeds 5-16,0
+2021,BYU,WCC,6,64,Seeds 5-16,0
+2021,San Diego St.,MWC,6,64,Seeds 5-16,0
+2021,Texas Tech,B12,6,32,Seeds 5-16,0
+2021,USC,P12,6,8,Seeds 5-16,0
+2021,Clemson,ACC,7,64,Seeds 5-16,0
+2021,Connecticut,BE,7,64,Seeds 5-16,0
+2021,Florida,SEC,7,32,Seeds 5-16,0
+2021,Oregon,P12,7,16,Seeds 5-16,0
+2021,LSU,SEC,8,32,Seeds 5-16,0
+2021,Loyola Chicago,MVC,8,16,Seeds 5-16,0
+2021,North Carolina,ACC,8,64,Seeds 5-16,0
+2021,Oklahoma,B12,8,32,Seeds 5-16,0
+2021,Georgia Tech,ACC,9,64,Seeds 5-16,0
+2021,Missouri,SEC,9,64,Seeds 5-16,0
+2021,St. Bonaventure,A10,9,64,Seeds 5-16,0
+2021,Wisconsin,B10,9,32,Seeds 5-16,0
+2021,Maryland,B10,10,32,Seeds 5-16,0
+2021,Rutgers,B10,10,32,Seeds 5-16,0
+2021,VCU,A10,10,64,Seeds 5-16,0
+2021,Virginia Tech,ACC,10,64,Seeds 5-16,0
+2021,Drake,MVC,11,64,Seeds 5-16,0
+2021,Michigan St.,B10,11,68,Seeds 5-16,0
+2021,Syracuse,ACC,11,16,Seeds 5-16,0
+2021,UCLA,P12,11,4,Seeds 5-16,1
+2021,Utah St.,MWC,11,64,Seeds 5-16,0
+2021,Wichita St.,Amer,11,68,Seeds 5-16,0
+2021,Georgetown,BE,12,64,Seeds 5-16,0
+2021,Oregon St.,P12,12,8,Seeds 5-16,0
+2021,UC Santa Barbara,BW,12,64,Seeds 5-16,0
+2021,Winthrop,BSth,12,64,Seeds 5-16,0
+2021,Liberty,ASun,13,64,Seeds 5-16,0
+2021,North Texas,CUSA,13,32,Seeds 5-16,0
+2021,Ohio,MAC,13,32,Seeds 5-16,0
+2021,UNC Greensboro,SC,13,64,Seeds 5-16,0
+2021,Abilene Christian,Slnd,14,32,Seeds 5-16,0
+2021,Colgate,Pat,14,64,Seeds 5-16,0
+2021,Eastern Washington,BSky,14,64,Seeds 5-16,0
+2021,Morehead St.,OVC,14,64,Seeds 5-16,0
+2021,Cleveland St.,Horz,15,64,Seeds 5-16,0
+2021,Grand Canyon,WAC,15,64,Seeds 5-16,0
+2021,Iona,MAAC,15,64,Seeds 5-16,0
+2021,Oral Roberts,Sum,15,16,Seeds 5-16,0
+2021,Appalachian St.,SB,16,68,Seeds 5-16,0
+2021,Drexel,CAA,16,64,Seeds 5-16,0
+2021,Hartford,AE,16,64,Seeds 5-16,0
+2021,Mount St. Mary's,NEC,16,68,Seeds 5-16,0
+2021,Norfolk St.,MEAC,16,64,Seeds 5-16,0
+2021,Texas Southern,SWAC,16,64,Seeds 5-16,0
+2022,Arizona,P12,1,16,Seeds 1-4,0
+2022,Baylor,B12,1,32,Seeds 1-4,0
+2022,Gonzaga,WCC,1,16,Seeds 1-4,0
+2022,Kansas,B12,1,1,Seeds 1-4,1
+2022,Auburn,SEC,2,32,Seeds 1-4,0
+2022,Duke,ACC,2,4,Seeds 1-4,1
+2022,Kentucky,SEC,2,64,Seeds 1-4,0
+2022,Villanova,BE,2,4,Seeds 1-4,1
+2022,Purdue,B10,3,16,Seeds 1-4,0
+2022,Tennessee,SEC,3,32,Seeds 1-4,0
+2022,Texas Tech,B12,3,16,Seeds 1-4,0
+2022,Wisconsin,B10,3,32,Seeds 1-4,0
+2022,Arkansas,SEC,4,8,Seeds 1-4,0
+2022,Illinois,B10,4,32,Seeds 1-4,0
+2022,Providence,BE,4,16,Seeds 1-4,0
+2022,UCLA,P12,4,16,Seeds 1-4,0
+2022,Connecticut,BE,5,64,Seeds 5-16,0
+2022,Houston,Amer,5,8,Seeds 5-16,0
+2022,Iowa,B10,5,64,Seeds 5-16,0
+2022,Saint Mary's,WCC,5,32,Seeds 5-16,0
+2022,Alabama,SEC,6,64,Seeds 5-16,0
+2022,Colorado St.,MWC,6,64,Seeds 5-16,0
+2022,LSU,SEC,6,64,Seeds 5-16,0
+2022,Texas,B12,6,32,Seeds 5-16,0
+2022,Michigan St.,B10,7,32,Seeds 5-16,0
+2022,Murray St.,OVC,7,32,Seeds 5-16,0
+2022,Ohio St.,B10,7,32,Seeds 5-16,0
+2022,USC,P12,7,64,Seeds 5-16,0
+2022,Boise St.,MWC,8,64,Seeds 5-16,0
+2022,North Carolina,ACC,8,2,Seeds 5-16,1
+2022,San Diego St.,MWC,8,64,Seeds 5-16,0
+2022,Seton Hall,BE,8,64,Seeds 5-16,0
+2022,Creighton,BE,9,32,Seeds 5-16,0
+2022,Marquette,BE,9,64,Seeds 5-16,0
+2022,Memphis,Amer,9,32,Seeds 5-16,0
+2022,TCU,B12,9,32,Seeds 5-16,0
+2022,Davidson,A10,10,64,Seeds 5-16,0
+2022,Loyola Chicago,MVC,10,64,Seeds 5-16,0
+2022,Miami FL,ACC,10,8,Seeds 5-16,0
+2022,San Francisco,WCC,10,64,Seeds 5-16,0
+2022,Iowa St.,B12,11,16,Seeds 5-16,0
+2022,Michigan,B10,11,16,Seeds 5-16,0
+2022,Notre Dame,ACC,11,32,Seeds 5-16,0
+2022,Rutgers,B10,11,68,Seeds 5-16,0
+2022,Virginia Tech,ACC,11,64,Seeds 5-16,0
+2022,Indiana,B10,12,64,Seeds 5-16,0
+2022,New Mexico St.,WAC,12,32,Seeds 5-16,0
+2022,Richmond,A10,12,32,Seeds 5-16,0
+2022,UAB,CUSA,12,64,Seeds 5-16,0
+2022,Wyoming,MWC,12,68,Seeds 5-16,0
+2022,Akron,MAC,13,64,Seeds 5-16,0
+2022,Chattanooga,SC,13,64,Seeds 5-16,0
+2022,South Dakota St.,Sum,13,64,Seeds 5-16,0
+2022,Vermont,AE,13,64,Seeds 5-16,0
+2022,Colgate,Pat,14,64,Seeds 5-16,0
+2022,Longwood,BSth,14,64,Seeds 5-16,0
+2022,Montana St.,BSky,14,64,Seeds 5-16,0
+2022,Yale,Ivy,14,64,Seeds 5-16,0
+2022,Cal St. Fullerton,BW,15,64,Seeds 5-16,0
+2022,Delaware,CAA,15,64,Seeds 5-16,0
+2022,Jacksonville St.,ASun,15,64,Seeds 5-16,0
+2022,Saint Peter's,MAAC,15,8,Seeds 5-16,0
+2022,Bryant,NEC,16,68,Seeds 5-16,0
+2022,Georgia St.,SB,16,64,Seeds 5-16,0
+2022,Norfolk St.,MEAC,16,64,Seeds 5-16,0
+2022,Texas A&M Corpus Chris,Slnd,16,68,Seeds 5-16,0
+2022,Texas Southern,SWAC,16,64,Seeds 5-16,0
+2022,Wright St.,Horz,16,64,Seeds 5-16,0
+2023,Alabama,SEC,1,16,Seeds 1-4,0
+2023,Houston,Amer,1,16,Seeds 1-4,0
+2023,Kansas,B12,1,32,Seeds 1-4,0
+2023,Purdue,B10,1,64,Seeds 1-4,0
+2023,Arizona,P12,2,64,Seeds 1-4,0
+2023,Marquette,BE,2,32,Seeds 1-4,0
+2023,Texas,B12,2,8,Seeds 1-4,0
+2023,UCLA,P12,2,16,Seeds 1-4,0
+2023,Baylor,B12,3,32,Seeds 1-4,0
+2023,Gonzaga,WCC,3,8,Seeds 1-4,0
+2023,Kansas St.,B12,3,8,Seeds 1-4,0
+2023,Xavier,BE,3,16,Seeds 1-4,0
+2023,Connecticut,BE,4,1,Seeds 1-4,1
+2023,Indiana,B10,4,32,Seeds 1-4,0
+2023,Tennessee,SEC,4,16,Seeds 1-4,0
+2023,Virginia,ACC,4,64,Seeds 1-4,0
+2023,Duke,ACC,5,32,Seeds 5-16,0
+2023,Miami FL,ACC,5,4,Seeds 5-16,1
+2023,Saint Mary's,WCC,5,32,Seeds 5-16,0
+2023,San Diego St.,MWC,5,2,Seeds 5-16,1
+2023,Creighton,BE,6,8,Seeds 5-16,0
+2023,Iowa St.,B12,6,64,Seeds 5-16,0
+2023,Kentucky,SEC,6,32,Seeds 5-16,0
+2023,TCU,B12,6,32,Seeds 5-16,0
+2023,Michigan St.,B10,7,16,Seeds 5-16,0
+2023,Missouri,SEC,7,32,Seeds 5-16,0
+2023,Northwestern,B10,7,32,Seeds 5-16,0
+2023,Texas A&M,SEC,7,64,Seeds 5-16,0
+2023,Arkansas,SEC,8,16,Seeds 5-16,0
+2023,Iowa,B10,8,64,Seeds 5-16,0
+2023,Maryland,B10,8,32,Seeds 5-16,0
+2023,Memphis,Amer,8,64,Seeds 5-16,0
+2023,Auburn,SEC,9,32,Seeds 5-16,0
+2023,Florida Atlantic,CUSA,9,4,Seeds 5-16,1
+2023,Illinois,B10,9,64,Seeds 5-16,0
+2023,West Virginia,B12,9,64,Seeds 5-16,0
+2023,Boise St.,MWC,10,64,Seeds 5-16,0
+2023,Penn St.,B10,10,32,Seeds 5-16,0
+2023,USC,P12,10,64,Seeds 5-16,0
+2023,Utah St.,MWC,10,64,Seeds 5-16,0
+2023,Arizona St.,P12,11,64,Seeds 5-16,0
+2023,Mississippi St.,SEC,11,68,Seeds 5-16,0
+2023,Nevada,MWC,11,68,Seeds 5-16,0
+2023,North Carolina St.,ACC,11,64,Seeds 5-16,0
+2023,Pittsburgh,ACC,11,32,Seeds 5-16,0
+2023,Providence,BE,11,64,Seeds 5-16,0
+2023,College of Charleston,CAA,12,64,Seeds 5-16,0
+2023,Drake,MVC,12,64,Seeds 5-16,0
+2023,Oral Roberts,Sum,12,64,Seeds 5-16,0
+2023,VCU,A10,12,64,Seeds 5-16,0
+2023,Furman,SC,13,32,Seeds 5-16,0
+2023,Iona,MAAC,13,64,Seeds 5-16,0
+2023,Kent St.,MAC,13,64,Seeds 5-16,0
+2023,Louisiana Lafayette,SB,13,64,Seeds 5-16,0
+2023,Grand Canyon,WAC,14,64,Seeds 5-16,0
+2023,Kennesaw St.,ASun,14,64,Seeds 5-16,0
+2023,Montana St.,BSky,14,64,Seeds 5-16,0
+2023,UC Santa Barbara,BW,14,64,Seeds 5-16,0
+2023,Colgate,Pat,15,64,Seeds 5-16,0
+2023,Princeton,Ivy,15,16,Seeds 5-16,0
+2023,UNC Asheville,BSth,15,64,Seeds 5-16,0
+2023,Vermont,AE,15,64,Seeds 5-16,0
+2023,Fairleigh Dickinson,NEC,16,32,Seeds 5-16,0
+2023,Howard,MEAC,16,64,Seeds 5-16,0
+2023,Northern Kentucky,Horz,16,64,Seeds 5-16,0
+2023,Southeast Missouri St.,OVC,16,68,Seeds 5-16,0
+2023,Texas A&M Corpus Chris,Slnd,16,64,Seeds 5-16,0
+2023,Texas Southern,SWAC,16,68,Seeds 5-16,0
+2024,Connecticut,BE,1,1,Seeds 1-4,1
+2024,Houston,B12,1,16,Seeds 1-4,0
+2024,North Carolina,ACC,1,16,Seeds 1-4,0
+2024,Purdue,B10,1,2,Seeds 1-4,1
+2024,Arizona,P12,2,16,Seeds 1-4,0
+2024,Iowa St.,B12,2,16,Seeds 1-4,0
+2024,Marquette,BE,2,16,Seeds 1-4,0
+2024,Tennessee,SEC,2,8,Seeds 1-4,0
+2024,Baylor,B12,3,32,Seeds 1-4,0
+2024,Creighton,BE,3,16,Seeds 1-4,0
+2024,Illinois,B10,3,8,Seeds 1-4,0
+2024,Kentucky,SEC,3,64,Seeds 1-4,0
+2024,Alabama,SEC,4,4,Seeds 1-4,1
+2024,Auburn,SEC,4,64,Seeds 1-4,0
+2024,Duke,ACC,4,8,Seeds 1-4,0
+2024,Kansas,B12,4,32,Seeds 1-4,0
+2024,Gonzaga,WCC,5,16,Seeds 5-16,0
+2024,Saint Mary's,WCC,5,64,Seeds 5-16,0
+2024,San Diego St.,MWC,5,16,Seeds 5-16,0
+2024,Wisconsin,B10,5,64,Seeds 5-16,0
+2024,BYU,B12,6,64,Seeds 5-16,0
+2024,Clemson,ACC,6,8,Seeds 5-16,0
+2024,South Carolina,SEC,6,64,Seeds 5-16,0
+2024,Texas Tech,B12,6,64,Seeds 5-16,0
+2024,Dayton,A10,7,32,Seeds 5-16,0
+2024,Florida,SEC,7,64,Seeds 5-16,0
+2024,Texas,B12,7,32,Seeds 5-16,0
+2024,Washington St.,P12,7,32,Seeds 5-16,0
+2024,Florida Atlantic,Amer,8,64,Seeds 5-16,0
+2024,Mississippi St.,SEC,8,64,Seeds 5-16,0
+2024,Nebraska,B10,8,64,Seeds 5-16,0
+2024,Utah St.,MWC,8,32,Seeds 5-16,0
+2024,Michigan St.,B10,9,32,Seeds 5-16,0
+2024,Northwestern,B10,9,32,Seeds 5-16,0
+2024,TCU,B12,9,64,Seeds 5-16,0
+2024,Texas A&M,SEC,9,32,Seeds 5-16,0
+2024,Boise St.,MWC,10,68,Seeds 5-16,0
+2024,Colorado,P12,10,32,Seeds 5-16,0
+2024,Colorado St.,MWC,10,64,Seeds 5-16,0
+2024,Drake,MVC,10,64,Seeds 5-16,0
+2024,Nevada,MWC,10,64,Seeds 5-16,0
+2024,Virginia,ACC,10,68,Seeds 5-16,0
+2024,Duquesne,A10,11,32,Seeds 5-16,0
+2024,New Mexico,MWC,11,64,Seeds 5-16,0
+2024,North Carolina St.,ACC,11,4,Seeds 5-16,1
+2024,Oregon,P12,11,32,Seeds 5-16,0
+2024,Grand Canyon,WAC,12,32,Seeds 5-16,0
+2024,James Madison,SB,12,32,Seeds 5-16,0
+2024,McNeese St.,Slnd,12,64,Seeds 5-16,0
+2024,UAB,Amer,12,64,Seeds 5-16,0
+2024,College of Charleston,CAA,13,64,Seeds 5-16,0
+2024,Samford,SC,13,64,Seeds 5-16,0
+2024,Vermont,AE,13,64,Seeds 5-16,0
+2024,Yale,Ivy,13,32,Seeds 5-16,0
+2024,Akron,MAC,14,64,Seeds 5-16,0
+2024,Colgate,Pat,14,64,Seeds 5-16,0
+2024,Morehead St.,OVC,14,64,Seeds 5-16,0
+2024,Oakland,Horz,14,32,Seeds 5-16,0
+2024,Long Beach St.,BW,15,64,Seeds 5-16,0
+2024,Saint Peter's,MAAC,15,64,Seeds 5-16,0
+2024,South Dakota St.,Sum,15,64,Seeds 5-16,0
+2024,Western Kentucky,CUSA,15,64,Seeds 5-16,0
+2024,Grambling St.,SWAC,16,64,Seeds 5-16,0
+2024,Howard,MEAC,16,68,Seeds 5-16,0
+2024,Longwood,BSth,16,64,Seeds 5-16,0
+2024,Montana St.,BSky,16,68,Seeds 5-16,0
+2024,Stetson,ASun,16,64,Seeds 5-16,0
+2024,Wagner,NEC,16,64,Seeds 5-16,0
+2025,Auburn,SEC,1,4,Seeds 1-4,1
+2025,Duke,ACC,1,4,Seeds 1-4,1
+2025,Florida,SEC,1,1,Seeds 1-4,1
+2025,Houston,B12,1,2,Seeds 1-4,1
+2025,Alabama,SEC,2,8,Seeds 1-4,0
+2025,Michigan St.,B10,2,8,Seeds 1-4,0
+2025,St. John's,BE,2,32,Seeds 1-4,0
+2025,Tennessee,SEC,2,8,Seeds 1-4,0
+2025,Iowa St.,B12,3,32,Seeds 1-4,0
+2025,Kentucky,SEC,3,16,Seeds 1-4,0
+2025,Texas Tech,B12,3,8,Seeds 1-4,0
+2025,Wisconsin,B10,3,32,Seeds 1-4,0
+2025,Arizona,B12,4,16,Seeds 1-4,0
+2025,Maryland,B10,4,16,Seeds 1-4,0
+2025,Purdue,B10,4,16,Seeds 1-4,0
+2025,Texas A&M,SEC,4,32,Seeds 1-4,0
+2025,Clemson,ACC,5,64,Seeds 5-16,0
+2025,Memphis,Amer,5,64,Seeds 5-16,0
+2025,Michigan,B10,5,16,Seeds 5-16,0
+2025,Oregon,B10,5,32,Seeds 5-16,0
+2025,BYU,B12,6,16,Seeds 5-16,0
+2025,Illinois,B10,6,32,Seeds 5-16,0
+2025,Mississippi,SEC,6,16,Seeds 5-16,0
+2025,Missouri,SEC,6,64,Seeds 5-16,0
+2025,Kansas,B12,7,64,Seeds 5-16,0
+2025,Marquette,BE,7,64,Seeds 5-16,0
+2025,Saint Mary's,WCC,7,32,Seeds 5-16,0
+2025,UCLA,B10,7,32,Seeds 5-16,0
+2025,Connecticut,BE,8,32,Seeds 5-16,0
+2025,Gonzaga,WCC,8,32,Seeds 5-16,0
+2025,Louisville,ACC,8,64,Seeds 5-16,0
+2025,Mississippi St.,SEC,8,64,Seeds 5-16,0
+2025,Baylor,B12,9,32,Seeds 5-16,0
+2025,Creighton,BE,9,32,Seeds 5-16,0
+2025,Georgia,SEC,9,64,Seeds 5-16,0
+2025,Oklahoma,SEC,9,64,Seeds 5-16,0
+2025,Arkansas,SEC,10,16,Seeds 5-16,0
+2025,New Mexico,MWC,10,32,Seeds 5-16,0
+2025,Utah St.,MWC,10,64,Seeds 5-16,0
+2025,Vanderbilt,SEC,10,64,Seeds 5-16,0
+2025,Drake,MVC,11,32,Seeds 5-16,0
+2025,North Carolina,ACC,11,64,Seeds 5-16,0
+2025,San Diego St.,MWC,11,68,Seeds 5-16,0
+2025,Texas,SEC,11,68,Seeds 5-16,0
+2025,VCU,A10,11,64,Seeds 5-16,0
+2025,Xavier,BE,11,64,Seeds 5-16,0
+2025,Colorado St.,MWC,12,32,Seeds 5-16,0
+2025,Liberty,CUSA,12,64,Seeds 5-16,0
+2025,McNeese St.,SInd,12,32,Seeds 5-16,0
+2025,UC San Diego,BW,12,64,Seeds 5-16,0
+2025,Akron,MAC,13,64,Seeds 5-16,0
+2025,Grand Canyon,WAC,13,64,Seeds 5-16,0
+2025,High Point,BSth,13,64,Seeds 5-16,0
+2025,Yale,Ivy,13,64,Seeds 5-16,0
+2025,Lipscomb,ASun,14,64,Seeds 5-16,0
+2025,Montana,BSky,14,64,Seeds 5-16,0
+2025,Troy,SB,14,64,Seeds 5-16,0
+2025,UNC Wilmington,CAA,14,64,Seeds 5-16,0
+2025,Bryant,AE,15,64,Seeds 5-16,0
+2025,Nebraska Omaha,Sum,15,64,Seeds 5-16,0
+2025,Robert Morris,Horz,15,64,Seeds 5-16,0
+2025,Wofford,SC,15,64,Seeds 5-16,0
+2025,Alabama St.,SWAC,16,64,Seeds 5-16,0
+2025,American,Pat,16,68,Seeds 5-16,0
+2025,Mount St. Mary's,MAAC,16,64,Seeds 5-16,0
+2025,Norfolk St.,MEAC,16,64,Seeds 5-16,0
+2025,SIU Edwardsville,OVC,16,64,Seeds 5-16,0
+2025,Saint Francis,NEC,16,68,Seeds 5-16,0
